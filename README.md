@@ -2,4 +2,4 @@ I am a Master’s student in Computer Engineering at Stony Brook University, wit
 
 With strong technical skills in Python, C++, TensorFlow, PyTorch, and cloud technologies like AWS and Azure, I am passionate about solving complex problems through innovative solutions. I’m well-versed in machine learning algorithms, including SVM, Logistic Regression, and Time Series Analysis, and I’ve applied these skills to projects ranging from predictive modeling to automation.
 
-I am currently seeking 2025 summer internship opportunities in Software Engineering, AI, or related fields, where I can leverage my skills and experience to contribute to impactful projects.
+I am currently seeking 2026 Full-time opportunities in Software Engineering, AI, or related fields, where I can leverage my skills and experience to contribute to impactful projects.
