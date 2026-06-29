@@ -4,5 +4,5 @@ I recently graduated with an MS in Artificial Intelligence from Stony Brook Univ
 
 I am open to roles where I can build AI-driven products that solve real problems and create meaningful impact. If my work looks like a good fit for what you're doing, feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gayatri--batta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gayatri-batta)
-[![Email](https://img.shields.io/badge/Email-gayatribatta20%40gmail.com-red?style=flat&logo=gmail)](mailto:gayatribatta20@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gayatri-batta)  
+[Email](mailto:gayatribatta20@gmail.com)
